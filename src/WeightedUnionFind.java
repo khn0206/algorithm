@@ -1,10 +1,10 @@
 
-public class WeightedUnion {
+public class WeightedUnionFind {
 
 	private int arr[];
 	private int sz[];
 	
-	public WeightedUnion() {
+	public WeightedUnionFind() {
 		
 		arr = new int[10];
 		sz = new int[10];

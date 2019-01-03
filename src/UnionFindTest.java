@@ -4,7 +4,7 @@ public class UnionFindTest {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		WeightedUnion unionFind = new WeightedUnion();
+		WeightedUnionFind unionFind = new WeightedUnionFind();
 
 		unionFind.union(4, 3);
 		unionFind.union(3, 8);
